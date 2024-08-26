@@ -1,7 +1,7 @@
 {
   "name": "maverick-discord-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "test",
   "main": "src/bot.js",
   "scripts": {
     "test": "node ."
